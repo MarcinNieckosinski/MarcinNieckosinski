@@ -91,7 +91,7 @@ My name is Marcin Nieckosiński. I am an IT technician. I graduated from ZSE-E i
 - Network protocols
 
 ## Certificates
-[ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 7***3
+[ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 75243
 
 ## Languages
 - Polish - native
