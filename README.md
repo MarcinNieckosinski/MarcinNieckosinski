@@ -1,10 +1,10 @@
-#Marcin Nieckosiński
+# Marcin Nieckosiński
 ---
-#About me
+# About me
 ---
 My name is Marcin Nieckosiński. I am an IT technician. I graduated from ZSE-E in Radomsko. I am a QA specialist. I have a large spectrum of projects on my account from web to automotive testing. I am testing since 2019.
 
-#Tools
+# Tools
 ---
 - Jira - Issue tracking and project management tool for developers
 - Selenium - Web testing library
@@ -16,7 +16,7 @@ My name is Marcin Nieckosiński. I am an IT technician. I graduated from ZSE-E i
 - EXAM - Tool for automotive testing
 - Github - Version control
 
-#Tech skills
+# Tech skills
 ---
 - Python
 - C
@@ -35,6 +35,6 @@ My name is Marcin Nieckosiński. I am an IT technician. I graduated from ZSE-E i
 - Ethernet
 - Network protocols
 
-#Certificates
+# Certificates
 ---
 [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 7***3
