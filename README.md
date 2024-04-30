@@ -11,6 +11,7 @@ My name is Marcin Nieckosiński. I am an IT technician. I graduated from ZSE-E i
 - Being part of test process standarization
 - Exchanging knowledge with other Automation QAs
 - Creating bank applications in low-code tool “EXIMEE” using Java and JavaScript
+- Conducting a trainging in Python programming
 
 ### Magneti Marelli (Volvo V536 Rear lamps):
 - Creating automated test cases and scenarios in Exam with Python
